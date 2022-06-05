@@ -1,9 +1,11 @@
 # JavaScript Game
 
 ## About project
+I've got an aspiration from a course and created an extra level with some other functions like disappearance of the board and others.
 
-
-
+## Rules
+Green circle(It's a Frog) must go all the way to the yellow-green circle(it's a Meta)
+Frog can't step on lightblue and red colour 
 
 ## Technologies
 * Visual Studio Code
