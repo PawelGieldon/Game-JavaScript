@@ -1,0 +1,79 @@
+.background1 {
+    background-color: orange;
+}
+
+
+
+.grid { 
+    
+    border: 1px solid black;
+    height: 180px;
+    width: 180px;  
+    display: flex; 
+    flex-wrap: wrap;
+    
+}
+
+.grid div {
+    height: 20px;
+    width: 20px;
+}
+
+
+
+
+.grid2 { 
+      
+    border: 1px solid black;
+    height: 180px;
+    width: 180px;  
+    display: flex; 
+    flex-wrap: wrap;
+    
+}
+
+.grid2 div {
+    height: 20px;
+    width: 20px;
+}
+
+
+
+
+.ending-block {
+    background-color: yellowgreen;
+}
+
+.starting-block {
+    background-color: blue;
+}
+
+
+
+.car-left , .car-right {
+    background-color: lightgray;
+}
+
+.car-leftlvl2 , .car-rightlvl2 {
+    background-color: orange;
+}
+
+.l1, .l2, .l3 {
+    background-color: purple;
+}
+
+.l4, .l5 {
+    background-color: lightblue;
+}
+
+.c1 {
+    background-color: red;
+}
+
+.c2,.c3 {
+    background-color: lightgray;
+}
+
+.frog {
+    background-color: green;
+}
