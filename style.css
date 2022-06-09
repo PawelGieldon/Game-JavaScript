@@ -5,7 +5,8 @@
 
 
 .grid { 
-    
+    position: absolute;
+    margin-top: 180px;    
     border: 1px solid black;
     height: 180px;
     width: 180px;  
@@ -20,15 +21,37 @@
 }
 
 
+.test {
+    position: absolute;
+    left: 350px;
+    top: 100px;
+
+}
+
+
+body {
+    display: flex;
+}
+
+.result2 {
+   position: absolute;
+   left: 216px;
+    top: 380px;
+
+}
+
+
 
 
 .grid2 { 
-      
+    position: absolute;
     border: 1px solid black;
     height: 180px;
     width: 180px;  
     display: flex; 
     flex-wrap: wrap;
+    left: 300px;
+    top: 188px;
     
 }
 
@@ -38,8 +61,6 @@
 }
 
 
-
-
 .ending-block {
     background-color: yellowgreen;
 }
@@ -47,6 +68,8 @@
 .starting-block {
     background-color: blue;
 }
+
+
 
 
 
