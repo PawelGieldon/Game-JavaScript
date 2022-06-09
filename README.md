@@ -14,9 +14,11 @@ Frog can't step on lightblue and red colour
 
 
 ## Screenshots
-![Zrzut ekranu 2022-06-05 190637](https://user-images.githubusercontent.com/93713186/172061921-9308d245-4872-48a2-a99a-418e877d4e74.png)
-![Drugi SCR](https://user-images.githubusercontent.com/93713186/172061966-f210e805-12c7-40f6-af1b-1f664f7ffa94.png)
-![Trzeci SCR](https://user-images.githubusercontent.com/93713186/172062005-9f243d46-b704-4fb8-98a0-fc91ea0b2aff.png)
+![Zrzut1](https://user-images.githubusercontent.com/93713186/172890535-839a922e-841a-4695-ba52-08be3bbd6063.png)
+![Zrzut2](https://user-images.githubusercontent.com/93713186/172890692-a5eb5242-ce66-4a26-a276-2c1c9872d7d7.png)
+![Zrzut3](https://user-images.githubusercontent.com/93713186/172890858-32f7f92c-5605-4d9b-b191-a44a60a12e96.png)
+![Screen4](https://user-images.githubusercontent.com/93713186/172890997-83002f07-93b8-4b22-a670-9a4e67746023.png)
+
 
 
 ## Contact
